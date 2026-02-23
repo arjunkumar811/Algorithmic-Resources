@@ -18,11 +18,4 @@ int main() {
         } else {
             cout << "Special";
         }
-        
-    
-    
-        
-    
-    
-   
 }
